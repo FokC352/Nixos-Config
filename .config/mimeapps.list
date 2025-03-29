@@ -1,0 +1,12 @@
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+application/x-7z-compressed=thunar.desktop
+image/jpeg=xterm.desktop
+application/x-executable=Alacritty.desktop
+application/x-nx-nsp=onion.torzu_emu.torzu.desktop
+
+[Added Associations]
+application/x-7z-compressed=thunar.desktop;
+image/jpeg=firefox.desktop;xterm.desktop;
+application/x-executable=Alacritty.desktop;
+application/x-nx-nsp=onion.torzu_emu.torzu.desktop;

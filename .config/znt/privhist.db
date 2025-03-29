@@ -1,0 +1,2 @@
+cd /etc/nixos
+sudo nixos-rebuild switch

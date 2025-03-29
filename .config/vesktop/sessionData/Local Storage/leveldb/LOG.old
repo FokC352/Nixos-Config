@@ -1,0 +1,6 @@
+2025/03/27-21:23:05.808 9ef Reusing MANIFEST /home/serbanc/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/03/27-21:23:05.823 9ef Recovering log #146
+2025/03/27-21:23:05.824 9ef Reusing old log /home/serbanc/.config/vesktop/sessionData/Local Storage/leveldb/000146.log 
+2025/03/27-21:28:00.069 9f0 Level-0 table #150: started
+2025/03/27-21:28:00.080 9f0 Level-0 table #150: 29100 bytes OK
+2025/03/27-21:28:00.082 9f0 Delete type=0 #146

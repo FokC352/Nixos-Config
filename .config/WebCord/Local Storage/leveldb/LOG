@@ -1,0 +1,18 @@
+2025/03/14-20:12:38.998 1ea3 Reusing MANIFEST /home/serbanc/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2025/03/14-20:12:39.009 1ea3 Recovering log #33
+2025/03/14-20:12:39.010 1ea3 Reusing old log /home/serbanc/.config/WebCord/Local Storage/leveldb/000033.log 
+2025/03/14-20:13:41.272 1ea4 Level-0 table #37: started
+2025/03/14-20:13:41.282 1ea4 Level-0 table #37: 63534 bytes OK
+2025/03/14-20:13:41.284 1ea4 Delete type=0 #33
+2025/03/14-20:13:41.284 1ea4 Compacting 4@0 + 1@1 files
+2025/03/14-20:13:41.286 1ea4 Generated table #38@0: 34 keys, 26566 bytes
+2025/03/14-20:13:41.286 1ea4 Compacted 4@0 + 1@1 files => 26566 bytes
+2025/03/14-20:13:41.287 1ea4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/14-20:13:41.287 1ea4 Delete type=2 #28
+2025/03/14-20:13:41.287 1ea4 Delete type=2 #34
+2025/03/14-20:13:41.287 1ea4 Delete type=2 #30
+2025/03/14-20:13:41.287 1ea4 Delete type=2 #32
+2025/03/14-20:13:41.287 1ea4 Delete type=2 #37
+2025/03/14-20:24:47.410 1ea4 Level-0 table #40: started
+2025/03/14-20:24:47.420 1ea4 Level-0 table #40: 42499 bytes OK
+2025/03/14-20:24:47.421 1ea4 Delete type=0 #36

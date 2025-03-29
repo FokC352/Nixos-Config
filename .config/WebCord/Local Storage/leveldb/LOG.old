@@ -1,0 +1,24 @@
+2025/03/13-18:40:14.623 2cc8 Reusing MANIFEST /home/serbanc/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2025/03/13-18:40:14.634 2cc8 Recovering log #23
+2025/03/13-18:40:14.635 2cc8 Reusing old log /home/serbanc/.config/WebCord/Local Storage/leveldb/000023.log 
+2025/03/13-18:41:16.597 2cc9 Level-0 table #27: started
+2025/03/13-18:41:16.606 2cc9 Level-0 table #27: 45971 bytes OK
+2025/03/13-18:41:16.607 2cc9 Delete type=0 #23
+2025/03/13-18:41:16.608 2cc9 Compacting 4@0 + 1@1 files
+2025/03/13-18:41:16.609 2cc9 Generated table #28@0: 34 keys, 26820 bytes
+2025/03/13-18:41:16.609 2cc9 Compacted 4@0 + 1@1 files => 26820 bytes
+2025/03/13-18:41:16.610 2cc9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/13-18:41:16.610 2cc9 Delete type=2 #24
+2025/03/13-18:41:16.611 2cc9 Delete type=2 #19
+2025/03/13-18:41:16.611 2cc9 Delete type=2 #17
+2025/03/13-18:41:16.611 2cc9 Delete type=2 #21
+2025/03/13-18:41:16.611 2cc9 Delete type=2 #27
+2025/03/13-20:31:30.557 2cc9 Level-0 table #30: started
+2025/03/13-20:31:30.567 2cc9 Level-0 table #30: 57919 bytes OK
+2025/03/13-20:31:30.570 2cc9 Delete type=0 #26
+2025/03/13-20:54:50.010 2cc8 Level-0 table #32: started
+2025/03/13-20:54:50.020 2cc8 Level-0 table #32: 56723 bytes OK
+2025/03/13-20:54:50.022 2cc8 Delete type=0 #29
+2025/03/13-21:16:21.532 2cc9 Level-0 table #34: started
+2025/03/13-21:16:21.542 2cc9 Level-0 table #34: 40404 bytes OK
+2025/03/13-21:16:21.544 2cc9 Delete type=0 #31

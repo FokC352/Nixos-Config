@@ -1,0 +1,21 @@
+[pyprland]
+plugins = [
+	"expose",
+	"scratchpads",
+	"shortcuts-menu",
+	"wallpapers",
+]
+
+[wallpapers]
+path = "~/papes/"
+command = 'swww img --transition-type any "[file]"'
+clear_command = "swww clear"
+
+[shortcuts_menu.entries]
+"Configuration Files" = pypr menu "configs"
+
+[shortcuts_menu.entries."configs"]
+
+
+
+

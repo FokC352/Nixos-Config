@@ -1,0 +1,53 @@
+2025-03-17 16:56:49 Loading main app package /nix/store/fphizym841vvc13pakp0zb0vb8sxsw70-obsidian-1.7.6/share/obsidian/obsidian.asar
+2025-03-17 16:56:50 Checking for update using Github
+2025-03-17 16:56:50 Success.
+2025-03-17 16:56:50 Latest version is 1.8.9
+2025-03-17 16:56:50 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/obsidian-1.8.9.asar.gz
+2025-03-17 16:56:52 Verifying hash & signature. Size= 8125625
+2025-03-17 16:56:52 Saving file
+2025-03-17 16:56:52 Update complete.
+2025-03-17 16:57:00 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 16:57:01 Checking for update using Github
+2025-03-17 16:57:01 Success.
+2025-03-17 16:57:01 Latest version is 1.8.9
+2025-03-17 16:57:01 App is up to date.
+2025-03-17 17:08:16 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 17:08:17 Checking for update using Github
+2025-03-17 17:08:17 Success.
+2025-03-17 17:08:17 Latest version is 1.8.9
+2025-03-17 17:08:17 App is up to date.
+2025-03-17 17:15:27 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 17:15:27 Checking for update using Github
+2025-03-17 17:15:27 Success.
+2025-03-17 17:15:27 Latest version is 1.8.9
+2025-03-17 17:15:27 App is up to date.
+2025-03-17 17:17:59 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 17:17:59 Checking for update using Github
+2025-03-17 17:17:59 Success.
+2025-03-17 17:17:59 Latest version is 1.8.9
+2025-03-17 17:17:59 App is up to date.
+2025-03-17 17:29:19 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 17:29:19 Checking for update using Github
+2025-03-17 18:17:59 Checking for update using Github
+2025-03-17 18:17:59 Success.
+2025-03-17 18:17:59 Latest version is 1.8.9
+2025-03-17 18:17:59 App is up to date.
+2025-03-17 20:09:29 Checking for update using Github
+2025-03-17 20:09:29 Success.
+2025-03-17 20:09:29 Latest version is 1.8.9
+2025-03-17 20:09:29 App is up to date.
+2025-03-17 20:55:36 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 20:55:37 Checking for update using Github
+2025-03-17 20:55:37 Success.
+2025-03-17 20:55:37 Latest version is 1.8.9
+2025-03-17 20:55:37 App is up to date.
+2025-03-17 21:25:37 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 21:25:37 Checking for update using Github
+2025-03-17 21:25:38 Success.
+2025-03-17 21:25:38 Latest version is 1.8.9
+2025-03-17 21:25:38 App is up to date.
+2025-03-17 22:30:04 Loading updated app package /home/serbanc/.config/obsidian/obsidian-1.8.9.asar
+2025-03-17 22:30:05 Checking for update using Github
+2025-03-17 22:30:05 Success.
+2025-03-17 22:30:05 Latest version is 1.8.9
+2025-03-17 22:30:05 App is up to date.
